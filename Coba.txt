@@ -1,1 +1,5 @@
 latihan git
+latihan git 2
+latihan git 3
+latihan git 4
+latihan git 5
